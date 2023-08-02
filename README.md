@@ -1,4 +1,4 @@
-# EendToEnd-EmotionAnalysisClassification-with-MS-Azure-ML-Studio
+# EendtooEnd -EmotionAnalysisClassificationProject-with-MS-Azure-ML-Studio
 "Emotional Analysis of Social Media for Stock Market Prediction"
 
 The main objective of our work was to develop a classification model for emotions in comments and social media posts. We used an emotional dataset comprising over 700,000 entries, with five emotional classes: happy, sad, love, surprise, and worry.
@@ -20,11 +20,11 @@ Classification Report and CM:<br>
 ![alt text](assets/glove-cm.jpg?raw=true)<br>
 
 By using the Azure cloud platform, we benefit from a robust infrastructure and efficient management tools for deploying our model. This enables us to provide a reliable, scalable, and secure solution for emotional analysis in social media. <br>
-AzureEndpoint
+AzureEndpoint<br>
 ![alt text](assets/azureEndpoint.jpg?raw=true)<br>
-AzureEndpointConsume
+AzureEndpointConsume<br>
 ![alt text](assets/azureEndpointConsume.jpg?raw=true)<br>
-AzureEndpointlogs
+AzureEndpointlogs<br>
 ![alt text](assets/azureEndpointlogs.jpg?raw=true)<br>
 
 By using Streamlit, we have created a user-friendly interface that allows end-users to interact easily with our emotional analysis model. This enables them to quickly and efficiently obtain emotional predictions based on comments and social media posts. <br>
@@ -37,6 +37,7 @@ By using Streamlit, we have created a user-friendly interface that allows end-us
 
 
 
-# Keywords: emotion analysis, social media, classification, bi-LSTM model, RandomForest, XGBoost, SVM, Glove word embeddings, MLOps, MLFlow, deployment on Azure, Streamlit interface.
+# Keywords: 
+emotion analysis, social media, classification, bi-LSTM model, RandomForest, XGBoost, SVM, Glove word embeddings, MLOps, MLFlow, deployment on Azure, Streamlit interface.
 
 
