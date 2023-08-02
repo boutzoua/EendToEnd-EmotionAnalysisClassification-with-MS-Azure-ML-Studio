@@ -10,8 +10,14 @@ We compared the performance of our model with other classical machine learning a
 The results obtained demonstrated high accuracy in emotion classification, with optimal performance achieved in certain emotional domains. This project has paved the way for future possibilities of improvement and research in the field of emotional analysis of social media.
 
 # Metrics
-For the LSTM Model:
+For the LSTM Model: \n
+Classification Report and CM:
 ![alt text](assets/bilstm-cr.jpg?raw=true)
+![alt text](assets/bilstm-cm.jpg?raw=true)
+For the LSTM Model + GLOVE EMBEDDING: \n
+Classification Report and CM:
+![alt text](assets/glove-cr.jpg?raw=true)
+![alt text](assets/glove-cm.jpg?raw=true)
 
 #Keywords: emotion analysis, social media, classification, bi-LSTM model, RandomForest, XGBoost, SVM, Glove word embeddings, MLOps, MLFlow, deployment on Azure, Streamlit interface.
 
