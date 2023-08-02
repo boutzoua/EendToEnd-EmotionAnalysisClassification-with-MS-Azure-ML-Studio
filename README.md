@@ -19,6 +19,24 @@ Classification Report and CM:<br>
 ![alt text](assets/glove-cr.jpg?raw=true)<br>
 ![alt text](assets/glove-cm.jpg?raw=true)<br>
 
-#Keywords: emotion analysis, social media, classification, bi-LSTM model, RandomForest, XGBoost, SVM, Glove word embeddings, MLOps, MLFlow, deployment on Azure, Streamlit interface.
+By using the Azure cloud platform, we benefit from a robust infrastructure and efficient management tools for deploying our model. This enables us to provide a reliable, scalable, and secure solution for emotional analysis in social media. <br>
+AzureEndpoint
+![alt text](assets/azureEndpoint.jpg?raw=true)<br>
+AzureEndpointConsume
+![alt text](assets/azureEndpointConsume.jpg?raw=true)<br>
+AzureEndpointlogs
+![alt text](assets/azureEndpointlogs.jpg?raw=true)<br>
+
+By using Streamlit, we have created a user-friendly interface that allows end-users to interact easily with our emotional analysis model. This enables them to quickly and efficiently obtain emotional predictions based on comments and social media posts. <br>
+![alt text](assets/streamlitcode2.jpg?raw=true)<br>
+![alt text](assets/happy.jpg?raw=true)<br>
+![alt text](assets/love.jpg?raw=true)<br>
+![alt text](assets/sad2.jpg?raw=true)<br>
+![alt text](assets/worry.jpg?raw=true)<br>
+![alt text](assets/mixed.jpg?raw=true)<br>
+
+
+
+# Keywords: emotion analysis, social media, classification, bi-LSTM model, RandomForest, XGBoost, SVM, Glove word embeddings, MLOps, MLFlow, deployment on Azure, Streamlit interface.
 
 
