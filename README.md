@@ -1,4 +1,4 @@
-# EendtooEnd -EmotionAnalysisClassificationProject-with-MS-Azure-ML-Studio
+# EndtoEnd - Emotion Analysis Classification Project with MS Azure ML Studio
 "Emotional Analysis of Social Media for Stock Market Prediction"
 
 The main objective of our work was to develop a classification model for emotions in comments and social media posts. We used an emotional dataset comprising over 700,000 entries, with five emotional classes: happy, sad, love, surprise, and worry.
